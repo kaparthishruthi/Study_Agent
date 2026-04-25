@@ -1,4 +1,4 @@
-# 🧠 Study AI Agent v2
+# 🧠 Study AI Agent
 
 An AI-powered study companion built with **Streamlit** and **Groq**, designed to help students learn smarter — with notes generation, quizzes, mind maps, flashcards, study planning, and progress tracking.
 
